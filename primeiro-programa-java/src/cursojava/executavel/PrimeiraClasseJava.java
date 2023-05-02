@@ -4,7 +4,7 @@ public class PrimeiraClasseJava {
 		
 	public static void main(String[]args) { 
 		
-			System.out.println("Meuhghgh primeiro programa em JAVA");
+			System.out.println("Meuuuuuuu primeiro programa em JAVA");
 			
 		}
 }
